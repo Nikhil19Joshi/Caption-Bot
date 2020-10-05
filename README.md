@@ -16,3 +16,7 @@ Well below are few snapshots of the successfull images and its predictions.
 ![image](https://user-images.githubusercontent.com/68136798/95113947-d0413800-0708-11eb-9f8e-4c4f1bdff83b.png)
 
 Below are the few snapshots of the unsuccessfull images and predictions.
+
+![image](https://user-images.githubusercontent.com/68136798/95114768-0df29080-070a-11eb-8131-f2bf364c871d.png)
+
+![image](https://user-images.githubusercontent.com/68136798/95114776-11861780-070a-11eb-950e-31031a9cca9f.png)
