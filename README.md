@@ -13,4 +13,5 @@ Well below are few snapshots of the images and its predictions.
 
 ![image](https://user-images.githubusercontent.com/68136798/95113932-cb7c8400-0708-11eb-8d73-c6a2f2b22417.png)
 
+![image](https://user-images.githubusercontent.com/68136798/95113947-d0413800-0708-11eb-9f8e-4c4f1bdff83b.png)
 
