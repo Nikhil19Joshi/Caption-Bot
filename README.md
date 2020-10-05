@@ -7,3 +7,10 @@ Current Work: We are now working on the web appplication framework using Flask a
 
 ## Dataset Link:
 https://www.flickr.com/photos/tags/uiuc/
+
+## How did we do?
+Well below are few snapshots of the images and its predictions.
+
+![image](https://user-images.githubusercontent.com/68136798/95113932-cb7c8400-0708-11eb-8d73-c6a2f2b22417.png)
+
+
